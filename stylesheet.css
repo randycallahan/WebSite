@@ -24,12 +24,14 @@ div {
     border: 2px dashed #FF0000;
 }
 #best_friend {
-    height:80px;
-    width:80px;
     border: 4px solid #00c957;
+    height:60px;
+    width:60px;
 }
 #archnemesis {
     border: 2px dashed #cc0000;
+    height:60px;
+    width:60px;
 }
 
 
