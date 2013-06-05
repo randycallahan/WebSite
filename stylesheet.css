@@ -1,38 +1,32 @@
-li {
-    color: green;
-}
-body{background-color:#c6E2FF;}
-* {
- border: 1px dashed blue   
-}
 div {
-	display: inline-block;
-	margin-left: 5px;
-    height:100px;
-    width:100px;
-    border-radius:100%;
-    border: 2px solid black;
-	
-}
-.friend {
-    border: 2px dashed #008000;
-}
-.family {
-    border: 2px dashed #0000FF;
-}
-.enemy {
-    border: 2px dashed #FF0000;
-}
-#best_friend {
-    border: 4px solid #00c957;
-    height:60px;
-    width:60px;
-}
-#archnemesis {
-    border: 2px dashed #cc0000;
-    height:60px;
-    width:60px;
+	border-radius: 5px;
 }
 
+#header {
+	height: 50px;
+	background-color: #F38630;
+	margin-bottom: 10px;
+}
 
+.left {
+	height: 300px;
+	width: 150px;
+	background-color: #A7DBD8;
+	float: left;
+	margin-bottom: 10px;
+}
 
+.right {
+	height: 300px;
+	width: 450px;
+	background-color: #E0E4CC;
+	float: right;
+	margin-bottom: 10px;
+}
+
+#footer {
+	height: 50px;
+	background-color: #69D2E7;
+	/*Add your CSS here!*/
+
+}
